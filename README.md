@@ -18,5 +18,5 @@ Repositório contém codigo usado para criaçao do micro-controlador .
 
 ## 📂 Trabalho em PDF
 
-[Apenas Codigo do Trabaho](https://docs.google.com/document/d/1-sOIBCQZ2cUdpwjCbS-nfI2oA37Fg56lMgR31DzguZ0/edit?usp=sharing)
+[Apenas Codigo](https://docs.google.com/document/d/1-sOIBCQZ2cUdpwjCbS-nfI2oA37Fg56lMgR31DzguZ0/edit?usp=sharing)
   
