@@ -18,5 +18,5 @@ Repositório contém codigo usado para criaçao do micro-controlador .
 
 ## 📂 Trabalho em PDF
 
-[Computer_Hardware_Basics_certificate_matheusian340-gmail-com_c18674eb-3ba9-460d-8789-c32618ee2264 (1).pdf](https://github.com/user-attachments/files/22454790/Computer_Hardware_Basics_certificate_matheusian340-gmail-com_c18674eb-3ba9-460d-8789-c32618ee2264.1.pdf)
+[Apenas Codigo do Trabaho](https://docs.google.com/document/d/1-sOIBCQZ2cUdpwjCbS-nfI2oA37Fg56lMgR31DzguZ0/edit?usp=sharing)
   
