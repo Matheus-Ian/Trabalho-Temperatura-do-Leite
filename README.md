@@ -3,7 +3,7 @@
 Repositório contém codigo usado para criaçao do micro-controlador .
 
 ## 📜 Informações
-- **alunos:** [Matheus Ian Vaz Da Silva, Pedro Henrique, Eugenio, Nayara]
+- **alunos:** Matheus Ian Vaz Da Silva, Pedro Henrique Duarte Franco, Eugenio Messias Junior, Sthefany Nayara Araujo Borges
 - **Professor:** [Francismar Alves Martins Junior]( https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/?original_referer=https%3A%2F%2Fgithub.com%2Fdiogohrq%2FCertificadoCisco%3Ftab%3Dreadme-ov-file   )
 - **Cordenador:** [Guilherme Nogueira](https://www.instagram.com/nogueira_rcz?igsh=MWk4eHprZzhidXcyYw==)
 - **Instituição:** [Unibrasília Montes Belos](https://unibrasmontesbelos.com.br)
