@@ -12,7 +12,14 @@ Repositório contém codigo usado para criaçao do micro-controlador .
   
 
 ---
+## Resumo 
+Este projeto apresenta o desenvolvimento de um mini-controlador para monitorar a temperatura do
+leite utilizando o microcontrolador ESP32, sensor DS18B20 e display OLED. O sistema alerta
+sempre que a temperatura ultrapassa 4 °C, garantindo a qualidade e segurança do produto.
 
+## Objetivo Geral
+Construir um controlador digital capaz de monitorar a temperatura do leite e disparar alertas
+quando a temperatura ultrapassar 4 °C
 
 ---
 
